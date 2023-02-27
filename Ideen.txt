@@ -1,0 +1,25 @@
+FS2020 / AIRBUS A320 / Proejekt 
+
+Aufbau Aircraft:
+
+- WINGLETS
+- Fuelselage 
+- Wings
+- Engines (PW1100G)
+
+Cockpit:
+
+- NEW CDPLC AND HUD COCKPIT
+- SICHERUNG FUNC 1 
+- FAILURES 1
+- OVHD 1
+
+Cabin:
+
+- BC EC 1
+- IFE 1
+- OVHD Seatbelt no smoking 1
+
+Sound:
+
+- FTSIM + PW 1100G
